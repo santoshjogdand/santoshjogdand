@@ -1,9 +1,8 @@
-### Hi, I'm Santosh Jogdand 👋
+## Hi, I'm Santosh Jogdand 👋
 ###
 
-## I'm a Computer Aplication's student and newbie programmer! ##
-
-- 🌱 I’m currently learning new things. 
+- 🌱 I’m currently learning ... 
+- ⚡ Fun fact: I can do that you can accept ...
 
 - 📣 Reach me on [My Instagram][instagram]
 
