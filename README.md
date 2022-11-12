@@ -2,9 +2,9 @@
 ###
 
 - 🌱 I’m currently learning ... 
-- ⚡ Fun fact: I can do that you can accept ...
+- ⚡ Fun fact: I can do that you can't accept ...
 
-- 📣 Reach me on [My Instagram][instagram]
+- 📣 Reach me on [My Site][instagram]
 
 <!--
 **santosh-jogdand/santosh-jogdand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
