@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... 
 - ⚡ Fun fact: I can do that you can't accept ...
 
-- 📣 Reach me on [My Site][instagram]
+- 📣 Reach me on [Instagram][instagram]
 
 <!--
 **santosh-jogdand/santosh-jogdand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[instagram]: https://instagram.com/_santosh.j/
+[instagram]: https://instagram.com/santoshjogdand_/
