@@ -1,8 +1,7 @@
 ## Hi, I'm Santosh Jogdand 👋
 ###
 
-- 🌱 I’m currently learning ... 
-- ⚡ Fun fact: I can do that you can't accept ...
+- 🌱 Currently learning ... 
 
 - 📣 Reach me on [Instagram][instagram]
 
