@@ -3,8 +3,8 @@
 
 - 🌱 Currently learning ... 
 
-- 📣 Reach me on [Instagram][instagram]
-
+<!-- 📣 Reach me on [Instagram][instagram]
+-->
 <!--
 **santosh-jogdand/santosh-jogdand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
