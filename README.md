@@ -10,6 +10,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-f7df1e?logo=javascript&logoColor=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-3C99DC?style=flat-square&logo=csswizardry&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vs_Code-3C99DC?style=flat-square&logo=visualstudiocode&logoColor=white">
+
   
 
   
