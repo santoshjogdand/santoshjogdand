@@ -1,4 +1,4 @@
-## Hi, I'm Santosh Jogdand 👋
+## Hi, I'm Santosh 👋
 ###
 
 - 🌱 Currently learning ...
