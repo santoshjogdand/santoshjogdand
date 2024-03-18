@@ -8,7 +8,6 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=000000">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-3C99DC?style=flat-square&logo=csswizardry&logoColor=white">
