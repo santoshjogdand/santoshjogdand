@@ -11,7 +11,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=000000">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-3C99DC?style=flat-square&logo=csswizardry&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vs_Code-3C99DC?style=flat-square&logo=visualstudiocode&logoColor=white"
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vs_Code-3C99DC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=000000">
 </p>
 
