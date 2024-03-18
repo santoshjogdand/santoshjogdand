@@ -8,6 +8,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
+  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=000000">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-3C99DC?style=flat-square&logo=csswizardry&logoColor=white">
@@ -15,8 +16,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=000000">
 </p>
 
-<!-- 📣 Reach me on [Instagram][instagram]
--->
+📫 How to reach me: [Instagram][instagram] [LinkedIn][LinkedIn]
 <!--
 **santosh-jogdand/santosh-jogdand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 -->
 
 [instagram]: https://instagram.com/santoshjogdand_/
+[LinkedIn]: https://linkedin.com/in/santoshjogdand/
