@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 
 [instagram]: https://instagram.com/santoshjogdand_/
 [LinkedIn]: https://linkedin.com/in/santoshjogdand/
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=santoshjogdand&label=Profile%20Views&icon=0&pretty=true" />
+</a>
