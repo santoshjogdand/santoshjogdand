@@ -59,23 +59,13 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak & Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=f85149"/>
-      </td>
-      <td>
-        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=santoshjogdand&theme=radical&background=0d1117&border=30363d&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+  <img width="390" src="https://streak-stats.demolab.com/?user=santoshjogdand&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ---
@@ -104,16 +94,7 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
----
 
 ## 🌐 Connect With Me
 
