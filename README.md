@@ -62,19 +62,27 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&layout=compact&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td>
+        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=f85149"/>
+      </td>
+      <td>
+        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshjogdand&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=santoshjogdand&theme=radical&background=0d1117&border=30363d&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santoshjogdand&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=santoshjogdand&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
@@ -91,7 +99,18 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshjogdand&theme=tokyo-night"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santoshjogdand&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santoshjogdand/santoshjogdand/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -109,9 +128,21 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 
 ---
 
-## 📊 Profile Views
+## 📊 Profile Views & Stats
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=santoshjogdand&icon=0&color=0" alt="Profile Views"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=santoshjogdand&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/santoshjogdand?style=for-the-badge&color=blue" alt="Followers"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/santoshjogdand?style=for-the-badge&color=yellow" alt="Stars"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -127,6 +158,8 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
   
   **"Building the future, one commit at a time."** 💻✨
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <br/>
+  
+  ### 💫 Thanks for visiting! Let's connect and build something amazing together! 🚀
   
 </div>
