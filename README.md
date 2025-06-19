@@ -64,8 +64,9 @@ I'm a passionate **Full Stack Developer** specializing in modern web technologie
 <div align="center">
 <!--   <img src="https://streak-stats.demolab.com?user=santoshjogdand&theme=dark" alt="GitHub Streak" /> -->
   <img src="https://git-hub-streak-stats.vercel.app?user=santoshjogdand&theme=dark" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=santoshjogdand&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshjogdand&hide=HTML&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 ---
