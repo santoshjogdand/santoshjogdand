@@ -5,7 +5,7 @@
 I'm a passionate **Full Stack Developer** specializing in modern web technologies and exploring the exciting world of DevOps. I love building scalable, secure applications that solve real-world problems.
 
 - 🔭 Currently working on **MERN Stack projects** and **real-time web applications**
-- 🌱 Learning **DevOps practices**, **WebRTC**, and **microservices architecture**
+- 🌱 Learning **DevOps practices**, and **microservices architecture**
 - 🎯 Focusing on **backend architecture** and **system design**
 - ⚡ Passionate about **clean code**, **automation**, and **performance optimization**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/santoshjogdand) | [Instagram](https://instagram.com/santoshjogdand_)
